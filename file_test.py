@@ -14,7 +14,7 @@ def test_calc_substraction():
 
 def test_calc_multiply():
   # Fonction test du résultat de 2*4
- 	output = 2*4
+	output = 2*4
 	assert output == 8
 
 
